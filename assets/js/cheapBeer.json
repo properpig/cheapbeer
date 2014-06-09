@@ -1,0 +1,68 @@
+[
+{
+"lat": "1.28394831",
+"lon": "103.8434776",
+"name": "Old Chengdu Restaurant ",
+"address": "82 Pagoda Street",
+"price": "8.50",
+"brand": "Heineken",
+"style": "Bottle",
+"url": "http://files.parse.com/f205f3cf-2d98-40c8-8383-316e51c5b8ae/b3b395dd-83fc-4026-885e-1c67c125d695-photo.jpg",
+"jsonType": "beer"
+},
+{
+"lat": "1.284277719",
+"lon": "103.8440163",
+"name": "My Grandma's Place",
+"address": "",
+"price": "7.00",
+"brand": "Tiger",
+"style": "Bottle",
+"url": "http://files.parse.com/f205f3cf-2d98-40c8-8383-316e51c5b8ae/a328d0c7-6021-43bc-b4e6-ff3f47dad547-photo.jpg",
+"jsonType": "beer"
+},
+{
+"lat": "1.283839094",
+"lon": "103.8435447",
+"name": "Chuan Garden Restaurant ",
+"address": "79 Pagoda Street",
+"price": "11.00",
+"brand": "Tiger",
+"style": "Bottle",
+"url": "http://files.parse.com/f205f3cf-2d98-40c8-8383-316e51c5b8ae/59cf029f-39c6-4903-b8ef-db167ed916f9-photo.jpg",
+"jsonType": "beer"
+},
+{
+"lat": "1.283773715",
+"lon": "103.8437172",
+"name": "Good Morning Nanyang Cafe",
+"address": "\r75 Pagoda Street",
+"price": "5.00",
+"brand": "Tiger",
+"style": "Bottle",
+"url": "http://files.parse.com/f205f3cf-2d98-40c8-8383-316e51c5b8ae/e93a7b46-59b6-4b54-8cb5-cd1d363c1f97-photo.jpg",
+"jsonType": "beer"
+},
+{
+"lat": "1.284078481",
+"lon": "103.8444079",
+"name": "Chong Qing Grilled Fish",
+"address": " 18 Mosque Street",
+"price": "7.20",
+"brand": "Tiger",
+"style": "Bottle",
+"url": "http://files.parse.com/f205f3cf-2d98-40c8-8383-316e51c5b8ae/602bb89f-0e2c-42d3-96cf-df154e7d4c8c-photo.jpg",
+"jsonType": "beer"
+},
+{
+"lat": "1.2840258",
+"lon": "103.8445018",
+"name": "Korean BBQ",
+"address": "44 Mosque Street",
+"price": "6.00",
+"brand": "Hite",
+"style": "Bottle",
+"url": "http://files.parse.com/f205f3cf-2d98-40c8-8383-316e51c5b8ae/bd38b0e4-a710-47ad-968c-ecb1722631f8-photo.jpg",
+"jsonType": "beer"
+}
+]

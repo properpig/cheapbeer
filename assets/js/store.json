@@ -1,0 +1,156 @@
+[
+{
+"lat": "1.2845549",
+"lon": "103.8443362",
+"cs_brand": "Cheers",
+"cs_address": "64 Upper Cross Street",
+"jsonType": "minimart"
+},
+{
+"lat": "1.285697",
+"lon": "103.843945",
+"cs_brand": "Cheers",
+"cs_address": "\"101 Upper Cross Street",
+"jsonType": "minimart"
+},
+{
+"lat": "1.2817344",
+"lon": "103.8443721",
+"cs_brand": "Cheers",
+"cs_address": "\"12 Sago Street",
+"jsonType": "minimart"
+},
+{
+"lat": "1.283639",
+"lon": "103.843311",
+"cs_brand": "Cheers",
+"cs_address": "211 New Bridge Road #01-06 & #01-07 Lucky Chinatown",
+"jsonType": "minimart"
+},
+{
+"lat": "1.341767",
+"lon": "103.767972",
+"cs_brand": "Cheers",
+"cs_address": "\"58 Toh Tuck Road #01-01",
+"jsonType": "minimart"
+},
+{
+"lat": "1.2891465",
+"lon": "103.8467157",
+"cs_brand": "Cheers",
+"cs_address": "\"6 Eu Tong Sen Street #01-05/06/14",
+"jsonType": "minimart"
+},
+{
+"lat": "1.3403532",
+"lon": "103.9494413",
+"cs_brand": "Cheers",
+"cs_address": "\"4 Singapore General Hospital",
+"jsonType": "minimart"
+},
+{
+"lat": "1.276691",
+"lon": "103.845401",
+"cs_brand": "Cheers",
+"cs_address": "\"120 Maxwell Road B2-04/05",
+"jsonType": "minimart"
+},
+{
+"lat": "1.27851",
+"lon": "103.8444661",
+"cs_brand": "Cheers",
+"cs_address": "\"1 Tras Link #01-12",
+"jsonType": "minimart"
+},
+{
+"lat": "1.278379",
+"lon": "103.843805",
+"cs_brand": "7-Eleven",
+"cs_address": "88 Tanjong Pagar Rd",
+"jsonType": "minimart"
+},
+{
+"lat": "1.2798369",
+"lon": "103.842943",
+"cs_brand": "7-Eleven",
+"cs_address": "37 Neil Rd",
+"jsonType": "minimart"
+},
+{
+"lat": "1.2811841",
+"lon": "103.8450994",
+"cs_brand": "7-Eleven",
+"cs_address": "7 Erskine Rd",
+"jsonType": "minimart"
+},
+{
+"lat": "1.2818527",
+"lon": "103.8450342",
+"cs_brand": "7-Eleven",
+"cs_address": "266 S Bridge Rd",
+"jsonType": "minimart"
+},
+{
+"lat": "1.2821484",
+"lon": "103.8458573",
+"cs_brand": "7-Eleven",
+"cs_address": "50 Club St",
+"jsonType": "minimart"
+},
+{
+"lat": "1.2796597",
+"lon": "103.8475687",
+"cs_brand": "7-Eleven",
+"cs_address": "3 McCallum St",
+"jsonType": "minimart"
+},
+{
+"lat": "1.2820907",
+"lon": "103.8484186",
+"cs_brand": "7-Eleven",
+"cs_address": "110 Telok Ayer St",
+"jsonType": "minimart"
+},
+{
+"lat": "1.28402",
+"lon": "103.842989",
+"cs_brand": "7-Eleven",
+"cs_address": "151 New Bridge Rd",
+"jsonType": "minimart"
+},
+{
+"lat": "1.285697",
+"lon": "103.843945",
+"cs_brand": "7-Eleven",
+"cs_address": "\"101 Upper Cross Street",
+"jsonType": "minimart"
+},
+{
+"lat": "1.2773643",
+"lon": "103.8419105",
+"cs_brand": "7-Eleven",
+"cs_address": "1 Cantonment Rd",
+"jsonType": "minimart"
+},
+{
+"lat": "1.279555",
+"lon": "103.838369",
+"cs_brand": "7-Eleven",
+"cs_address": "3 Second Hospital Ave",
+"jsonType": "minimart"
+},
+{
+"lat": "1.273228",
+"lon": "103.8448952",
+"cs_brand": "7-Eleven",
+"cs_address": "78 Shenton Way",
+"jsonType": "minimart"
+},
+{
+"lat": "1.275848",
+"lon": "103.845971",
+"cs_brand": "7-Eleven",
+"cs_address": "10 Anson Rd",
+"jsonType": "minimart"
+}
+]

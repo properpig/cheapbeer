@@ -1,0 +1,72 @@
+[
+{
+"lat": "1.2800697",
+"lon": "103.8449108",
+"address": "Maxwell Food Centre",
+"name": "1 Kadayanallur St",
+"comments": "Special delights inside",
+"rating": "4",
+"url": "http://www.toilet.org.sg/photos/htp3sMaxwell10.jpg",
+"jsonType": "toilets"
+},
+{
+"lat": "1.2794012",
+"lon": "103.8467008",
+"address": "MND Building",
+"name": "7 Maxwell Road",
+"comments": "Clean restroom with basic facilities",
+"rating": "3",
+"url": "http://www.toilet.org.sg/photos/htp3sAmoy5.jpg",
+"jsonType": "toilets"
+},
+{
+"lat": "1.2833526",
+"lon": "103.84686",
+"address": "China Square Central",
+"name": "18 Cross Street",
+"comments": "Squat toilts (optional)",
+"rating": "4",
+"url": "http://www.toilet.org.sg/photos/4s_ChinaSquare_9.jpg",
+"jsonType": "toilets"
+},
+{
+"lat": "1.2839928",
+"lon": "103.850257",
+"address": "Golden Shoe",
+"name": "50 Market Street",
+"comments": "Clean restroom with basic facilities",
+"rating": "3",
+"url": "http://www.toilet.org.sg/photos/htp3sMarketstreet8.jpg",
+"jsonType": "toilets"
+},
+{
+"lat": "1.284591",
+"lon": "103.843259",
+"address": "The Majestic",
+"name": "80 Eu Tong Sen Street",
+"comments": "loors dirty and basin is stuck with water",
+"rating": "1",
+"url": "http://interactivejungle.com/wp-content/uploads/2012/02/worst-toilet.jpg",
+"jsonType": "toilets"
+},
+{
+"lat": "1.284496",
+"lon": "103.851421",
+"address": "Raffles Place MRT Station",
+"name": "5 Raffles Place",
+"comments": "Urine smell,floor wet, no paper towels, single hand dryer",
+"rating": "1",
+"url": "http://wac.450f.edgecastcdn.net/80450F/ultimateclassicrock.com/files/2013/10/Toilet_ScottGries.jpg",
+"jsonType": "toilets"
+},
+{
+"lat": "1.287408",
+"lon": "103.851722",
+"address": "Raffles Landing Site",
+"name": "Boat Quay (1 Empress Place)",
+"comments": "YUCKS!!!!!!!!",
+"rating": "1",
+"url": "http://static.fjcdn.com/pictures/Bad_d5fed5_1581539.jpg",
+"jsonType": "toilets"
+}
+]
