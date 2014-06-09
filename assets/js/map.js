@@ -150,7 +150,7 @@
 
 					$.ajax({
 						type   : 'GET',
-						url    : 'assets/js/allBeer.json',
+						url    : 'assets/js/allbeer.json',
 						data   : form.serialize(),
 						success: function (data) {
 							// element.aviators_map('removeMarkers');
