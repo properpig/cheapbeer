@@ -1,0 +1,378 @@
+[
+{
+"lat": "1.278973",
+"lon": "103.843999",
+"brand": "POSB",
+"name": "Tanjong Pagar Branch",
+"address": "Blk 1 Tanjong Pagar  #01-41/44\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.274929",
+"lon": "103.843549",
+"brand": "POSB",
+"name": "NTUC 165 Tanjong Pagar Road",
+"address": "100 Tras Street  #B1-01 100 AM1\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.2755658",
+"lon": "103.8432491",
+"brand": "POSB",
+"name": "NTUC Tanjong Pagar",
+"address": "Blk 5 Tanjong Pagar\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.271418",
+"lon": "103.842329",
+"brand": "POSB",
+"name": "PSA Tanjong Pagar Complex",
+"address": "7 Keppel Road\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.2784761",
+"lon": "103.8403944",
+"brand": "POSB",
+"name": "Everton Park",
+"address": "Blk 1 Cantonment Road\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.276691",
+"lon": "103.845401",
+"brand": "DBS",
+"name": "Tanjong Pagar MRT Station",
+"address": "120 Maxwell Road\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.2751802",
+"lon": "103.837186",
+"brand": "POSB",
+"name": "Spottiswoode Park Road",
+"address": "Blk 108 Spottiswoode Park Road\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.2811688",
+"lon": "103.8436199",
+"brand": "POSB",
+"name": "Banda Street",
+"address": "Blk 5 Banda Street\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.2772297",
+"lon": "103.847986",
+"brand": "DBS",
+"name": "CPF Building",
+"address": "79 Robinson Road\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.281367",
+"lon": "103.8391087",
+"brand": "POSB",
+"name": "Outram Park MRT Station",
+"address": "10 Outram Road\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.28443",
+"lon": "103.84622",
+"brand": "DBS",
+"name": "South Bridge Branch",
+"address": "Blk 531 Upper Cross Street  #01-51 Hong Lim Complex\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.285362",
+"lon": "103.845021",
+"brand": "POSB",
+"name": "NTUC Chinatown Point",
+"address": "133 New Bridge Road\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.282705",
+"lon": "103.8432342",
+"brand": "POSB",
+"name": "Chinatown Complex",
+"address": "Blk 335 Smith Street Level 1\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.28402",
+"lon": "103.842989",
+"brand": "POSB",
+"name": "Chinatown MRT Station",
+"address": "151 New Bridge Road\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.285697",
+"lon": "103.843945",
+"brand": "POSB",
+"name": "People's Park Centre",
+"address": "101 Upper Cross Street\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.284095",
+"lon": "103.8425309",
+"brand": "POSB",
+"name": "People's Park Complex",
+"address": "1 Park Road Level 2\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.284987",
+"lon": "103.842602",
+"brand": "POSB",
+"name": "People's Park Complex Food Centre",
+"address": "Blk 32 New Market Road\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.2839928",
+"lon": "103.850257",
+"brand": "DBS",
+"name": "Golden Shoe",
+"address": "50 Market Street Level 1\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.282122",
+"lon": "103.840885",
+"brand": "POSB",
+"name": "Pearl's Centre",
+"address": "100 Eu Tong Sen Street Level 1\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.273638",
+"lon": "103.842981",
+"brand": "OCBC",
+"name": "Tanjong Pagar Road",
+"address": "260 Tanjong Pagar Road\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.279963",
+"lon": "103.844318",
+"brand": "OCBC",
+"name": "Tanjong Pagar Plaza - 7-Eleven",
+"address": "1 Tanjong Pagar Road  #01-32 Tanjong Pagar Plaza\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.2799791",
+"lon": "103.8440149",
+"brand": "OCBC",
+"name": "Tangjong Pagar Plaza",
+"address": "5 Tanjong Pagar Road  #01-01 FairPrice\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.274929",
+"lon": "103.843549",
+"brand": "OCBC",
+"name": "Amara Hotel - FairPrice",
+"address": "100 Tras Street  #B1-01 Amara Hotel\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.275848",
+"lon": "103.845971",
+"brand": "OCBC",
+"name": "International Plaza",
+"address": "10 Anson Road  Level 1\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.276691",
+"lon": "103.845401",
+"brand": "OCBC",
+"name": "Tanjong Pagar MRT Station",
+"address": "120 Maxwell Road  Tanjong Pagar Xchange\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.2772297",
+"lon": "103.847986",
+"brand": "OCBC",
+"name": "Robinson Road - Cheers",
+"address": "79 Robinson Road  #01-02 CPF Building\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.2777558",
+"lon": "103.8482716",
+"brand": "OCBC",
+"name": "Robinson Road Branch",
+"address": "77 Robinson Road  #01-03 Robinson 77\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.2794012",
+"lon": "103.8467008",
+"brand": "OCBC",
+"name": "Amoy Street Food Centre",
+"address": "7 Maxwell Road\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.2800697",
+"lon": "103.8449108",
+"brand": "OCBC",
+"name": "Maxwell Hawker Centre",
+"address": "1 Kadayanallur Street\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.2797438",
+"lon": "103.839381",
+"brand": "OCBC",
+"name": "Outram Park MRT Station (NEL)",
+"address": "300 Eu Tong Sen Street\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.282122",
+"lon": "103.840885",
+"brand": "OCBC",
+"name": "Pearls Centre (Main Lobby)",
+"address": "100 Eu Tong Sen Street\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.2829775",
+"lon": "103.8426412",
+"brand": "OCBC",
+"name": "New Bridge Centre",
+"address": "Blk 336 Smith Street  Level 1\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.283639",
+"lon": "103.843311",
+"brand": "OCBC",
+"name": "New Bridge Road - Cheers",
+"address": "211 New Bridge Road #01-06/07  Lucky Chinatown \r",
+"jsonType": "atm"
+},
+{
+"lat": "1.284095",
+"lon": "103.8425309",
+"brand": "OCBC",
+"name": "People's Park Complex (Level 1)",
+"address": "1 Park Road\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.284987",
+"lon": "103.842602",
+"brand": "OCBC",
+"name": "Peoples Park Food Centre",
+"address": "32 New Market Road  #01-K3\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.285697",
+"lon": "103.843945",
+"brand": "OCBC",
+"name": "People's Park Centre",
+"address": "101 Upper Cross St  #01-27Ê\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.285362",
+"lon": "103.845021",
+"brand": "OCBC",
+"name": "Chinatown Point - FairPrice",
+"address": "133 New Bridge Road  Chinatown Point Basement 1\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.285134",
+"lon": "103.846524",
+"brand": "OCBC",
+"name": "South Bridge Road - Fook Hai Building (Level 1)",
+"address": "150 South Bridge Road\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.284772",
+"lon": "103.8476382",
+"brand": "OCBC",
+"name": "Great Eastern Centre",
+"address": "1 Pickering Street #01-00\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.2854622",
+"lon": "103.8492265",
+"brand": "OCBC",
+"name": "OCBC Centre Branch",
+"address": "65 Chulia St  #01-00 OCBC Centre\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.284318",
+"lon": "103.850605",
+"brand": "OCBC",
+"name": "Bank of Singapore",
+"address": "63 Market Street\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.284496",
+"lon": "103.851421",
+"brand": "OCBC",
+"name": "Raffles Place MRT Station",
+"address": "5 Raffles Place\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.274929",
+"lon": "103.843549",
+"brand": "UOB",
+"name": "100 AM",
+"address": "100 Tras Street\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.275848",
+"lon": "103.845971",
+"brand": "UOB",
+"name": " Anson Road Branch",
+"address": "10 Anson Road #01-01\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.28402",
+"lon": "103.842989",
+"brand": "UOB",
+"name": "Chinatown NEL MRT Station",
+"address": "151 New Bridge Road\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.285362",
+"lon": "103.845021",
+"brand": "UOB",
+"name": "Chinatown Point",
+"address": "133 New Bridge Road #02-K1\r",
+"jsonType": "atm"
+},
+{
+"lat": "1.282122",
+"lon": "103.840885",
+"brand": "UOB",
+"name": "Eu Tong Sen Street",
+"address": "100 Eu Tong Sen Street #01-09\r",
+"jsonType": "atm"
+}
+]

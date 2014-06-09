@@ -1,0 +1,191 @@
+[
+{
+"lat": "1.280570329",
+"lon": "103.8361236",
+"building": "BLK A (SINGAPORE GENERAL HOSPITAL)",
+"block": "31",
+"road": "THIRD HOSPITAL AVENUE",
+"postal": "168753",
+"jsonType": "health"
+},
+{
+"lat": "1.280570329",
+"lon": "103.8361236",
+"building": "SGH MUSEUM (SINGAPORE GENERAL HOSPITAL)",
+"block": "31",
+"road": "THIRD HOSPITAL AVENUE",
+"postal": "168753",
+"jsonType": "health"
+},
+{
+"lat": "1.281567003",
+"lon": "103.8374633",
+"building": "PATHOLOGY BUILDING (SINGAPORE GENERAL HOSPITAL)",
+"block": "1",
+"road": "HOSPITAL DRIVE",
+"postal": "169608",
+"jsonType": "health"
+},
+{
+"lat": "1.280353911",
+"lon": "103.8423084",
+"building": "SATA KRETA AYER CLINIC",
+"block": "17",
+"road": "KRETA AYER ROAD",
+"postal": "88989",
+"jsonType": "health"
+},
+{
+"lat": "1.279169931",
+"lon": "103.8350276",
+"building": "BLK 2 (SINGAPORE GENERAL HOSPITAL)",
+"block": "1",
+"road": "HOSPITAL DRIVE",
+"postal": "169608",
+"jsonType": "health"
+},
+{
+"lat": "1.279117444",
+"lon": "103.8343375",
+"building": "BLK 3 (SINGAPORE GENERAL HOSPITAL)",
+"block": "1",
+"road": "HOSPITAL DRIVE",
+"postal": "169608",
+"jsonType": "health"
+},
+{
+"lat": "1.279848724",
+"lon": "103.836958",
+"building": "BLK 8 (SINGAPORE GENERAL HOSPITAL)",
+"block": "1",
+"road": "HOSPITAL DRIVE",
+"postal": "169608",
+"jsonType": "health"
+},
+{
+"lat": "1.280570329",
+"lon": "103.8361236",
+"building": "BLK B (SINGAPORE GENERAL HOSPITAL)",
+"block": "31",
+"road": "THIRD HOSPITAL AVENUE",
+"postal": "168753",
+"jsonType": "health"
+},
+{
+"lat": "1.280653548",
+"lon": "103.8347588",
+"building": "BLK 7 (SINGAPORE GENERAL HOSPITAL)",
+"block": "1",
+"road": "HOSPITAL DRIVE",
+"postal": "169608",
+"jsonType": "health"
+},
+{
+"lat": "1.279823621",
+"lon": "103.8347697",
+"building": "BLK 7 (SINGAPORE GENERAL HOSPITAL)",
+"block": "1",
+"road": "HOSPITAL DRIVE",
+"postal": "169608",
+"jsonType": "health"
+},
+{
+"lat": "1.280360117",
+"lon": "103.8350956",
+"building": "SINGAPORE GENERAL HOSPITAL",
+"block": "1",
+"road": "HOSPITAL DRIVE",
+"postal": "169608",
+"jsonType": "health"
+},
+{
+"lat": "1.278500658",
+"lon": "103.8346096",
+"building": "BLK 3 (SINGAPORE GENERAL HOSPITAL)",
+"block": "1",
+"road": "HOSPITAL DRIVE",
+"postal": "169608",
+"jsonType": "health"
+},
+{
+"lat": "1.281764895",
+"lon": "103.8348343",
+"building": "CLINICAL TRIALS & EPIDEMIOLOY RESEARCH UNIT (MOH)",
+"block": "10",
+"road": "COLLEGE ROAD",
+"postal": "169851",
+"jsonType": "health"
+},
+{
+"lat": "1.279603766",
+"lon": "103.8352834",
+"building": "BLK 4 (SINGAPORE GENERAL HOSPITAL)",
+"block": "1",
+"road": "HOSPITAL DRIVE",
+"postal": "169608",
+"jsonType": "health"
+},
+{
+"lat": "1.279823621",
+"lon": "103.8347697",
+"building": "BLK 6 (SINGAPORE GENERAL HOSPITAL)",
+"block": "1",
+"road": "HOSPITAL DRIVE",
+"postal": "169608",
+"jsonType": "health"
+},
+{
+"lat": "1.279740428",
+"lon": "103.8355275",
+"building": "SINGAPORE GENERAL HOSPITAL",
+"block": "1",
+"road": "HOSPITAL DRIVE",
+"postal": "169608",
+"jsonType": "health"
+},
+{
+"lat": "1.27844606",
+"lon": "103.8339988",
+"building": "BLK 1 (SINGAPORE GENERAL HOSPITAL)",
+"block": "1",
+"road": "HOSPITAL DRIVE",
+"postal": "169608",
+"jsonType": "health"
+},
+{
+"lat": "1.279848724",
+"lon": "103.836958",
+"building": "BLK 10 (SINGAPORE GENERAL HOSPITAL)",
+"block": "1",
+"road": "HOSPITAL DRIVE",
+"postal": "169608",
+"jsonType": "health"
+},
+{
+"lat": "1.280084428",
+"lon": "103.8371258",
+"building": "SINGAPORE GENERAL HOSPITAL",
+"block": "8",
+"road": "COLLEGE ROAD",
+"postal": "169610",
+"jsonType": "health"
+},
+{
+"lat": "1.279655517",
+"lon": "103.8342948",
+"building": "BLK 5 (SINGAPORE GENERAL HOSPITAL)",
+"block": "1",
+"road": "HOSPITAL DRIVE",
+"postal": "169608",
+"jsonType": "health"
+},
+{
+"lat": "1.27989527",
+"lon": "103.835042",
+"building": "SINGAPORE GENERAL HOSPITAL",
+"block": "1",
+"road": "HOSPITAL DRIVE",
+"postal": "169608",
+"jsonType": "health"
+}
+]

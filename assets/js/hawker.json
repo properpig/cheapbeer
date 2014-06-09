@@ -1,0 +1,92 @@
+[
+{
+"lat": "1.279218486",
+"lng": "103.8466069",
+"block": "",
+"address": "Telok Ayer Street",
+"postal": "69111",
+"name": "Amoy Street Food Centre",
+"jsonType": "hawker"
+},
+{
+"lat": "1.288252097",
+"lng": "103.8399403",
+"block": "1",
+"address": "Jalan Kukoh",
+"postal": "161001",
+"name": "Blk 1 Jalan Kukoh",
+"jsonType": "hawker"
+},
+{
+"lat": "1.27661465",
+"lng": "103.843167",
+"block": "6",
+"address": "Tanjong Pagar Plaza",
+"postal": "81006",
+"name": "Blk 6 Tanjong Pagar Plaza",
+"jsonType": "hawker"
+},
+{
+"lat": "1.282235213",
+"lng": "103.8431776",
+"block": "335",
+"address": "Smith Street",
+"postal": "50335",
+"name": "Chinatown Market",
+"jsonType": "hawker"
+},
+{
+"lat": "1.285295084",
+"lng": "103.8458243",
+"block": "531A",
+"address": "Upper Cross Street",
+"postal": "51531",
+"name": "Hong Lim Market & Food Centre",
+"jsonType": "hawker"
+},
+{
+"lat": "1.283867107",
+"lng": "103.8500288",
+"block": "50",
+"address": "Market Street",
+"postal": "48940",
+"name": "Market Street Food Centre",
+"jsonType": "hawker"
+},
+{
+"lat": "1.280330245",
+"lng": "103.8447335",
+"block": "1",
+"address": "Kadayanallur Street",
+"postal": "69184",
+"name": "Maxwell Food Centre",
+"jsonType": "hawker"
+},
+{
+"lat": "1.284991063",
+"lng": "103.8425788",
+"block": "32",
+"address": "New Market Road",
+"postal": "50032",
+"name": "People's Park Food Centre",
+"jsonType": "hawker"
+},
+{
+"lat": "1.285088296",
+"lng": "103.8323488",
+"block": "30",
+"address": "Seng Poh Road",
+"postal": "168898",
+"name": "Tiong Bahru Market",
+"jsonType": "hawker"
+},
+{
+"lat": "1.280603063",
+"lng": "103.8504145",
+"block": "18",
+"address": "RAFFLES QUAY",
+"postal": "48582",
+"name": "LAU PA SAT",
+"jsonType": "hawker"
+}
+]
